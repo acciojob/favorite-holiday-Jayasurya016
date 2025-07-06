@@ -1,6 +1,5 @@
-/*  your css code here. If applicable */
-<style>
-  body {
+
+html, body {
     font-family: Arial, sans-serif;
     background-color: #f5fff7;
     color: #333;
@@ -54,5 +53,4 @@
     color: #1565c0;
     font-style: italic;
   }
-</style>
 

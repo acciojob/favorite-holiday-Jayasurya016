@@ -1,50 +1,35 @@
+body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
 
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background-color: #f0f8f5;
-      color: #333;
-      margin: 0;
-      padding: 20px;
-    }
+        h1 {
+            color: #2c3e50;
+        }
 
-    h1 {
-      color: #2e8b57;
-      text-align: center;
-      font-size: 3em;
-      margin-bottom: 10px;
-    }
+        h2 {
+            color: #34495e;
+            margin-top: 30px;
+        }
 
-    p {
-      font-size: 1.2em;
-      line-height: 1.6;
-      text-align: center;
-      max-width: 800px;
-      margin: 0 auto 30px;
-    }
+        p {
+            color: #555;
+        }
 
-    ol, ul {
-      max-width: 800px;
-      margin: 0 auto 20px;
-      padding-left: 20px;
-    }
+        ul, ol {
+            margin-bottom: 20px;
+        }
 
-    ol li, ul li {
-      margin-bottom: 10px;
-      font-size: 1.1em;
-    }
+        ul li, ol li {
+            margin-bottom: 10px;
+        }
 
-    strong {
-      color: #006400;
-    }
+        /* Emphasized text styling */
+        strong, b {
+            font-weight: bold;
+        }
 
-    em {
-      color: #8b4513;
-    }
-
-    hr {
-      border: none;
-      height: 2px;
-      background-color: #ccc;
-      margin: 30px auto;
-      width: 80%;
-    }
+        em, i {
+            font-style: italic;
+        }
